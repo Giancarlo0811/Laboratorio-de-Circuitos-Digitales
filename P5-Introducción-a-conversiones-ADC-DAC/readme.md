@@ -3,7 +3,7 @@ producidos por las variaciones de posición del eje rotativo de un potenciómetr
 una fuente de 5V. Las lecturas serán mostradas en dos displays de 7 segmentos que
 representarán dos dígitos, un entero y un decimal. Por lo tanto la escala de este voltímetro
 estará entre 0,0V y 5,0V.
-Además se controlará la velocidad de un motor DC con la implementación de reder R-2R.
+Además se controlará la velocidad de un motor DC con la implementación de red R-2R.
 
 ## Voltímetro 
 
